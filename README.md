@@ -2,7 +2,6 @@
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-Humble-3490dc?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-TurtleBot3-orange?style=for-the-badge&logo=gazebo&logoColor=white)
 
 > **Autonomous navigation stack implementation for TurtleBot3 using ROS 2 Humble. Features reactive obstacle avoidance, dynamic velocity scaling, and emergency recovery behaviors.**
